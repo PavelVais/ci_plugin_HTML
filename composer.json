@@ -1,0 +1,13 @@
+{
+    "name": "pavelvais/ci_plugin_html",
+    "description": "HTML plugin do codeigniteru",
+    "authors": [
+        {
+            "name": "Pavel Vais",
+            "email": "vaispavel@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
