@@ -1,13 +1,15 @@
 {
-    "name": "pavelvais/ci_plugin_html",
-    "description": "HTML plugin do codeigniteru",
-    "authors": [
-        {
-            "name": "Pavel Vais",
-            "email": "vaispavel@gmail.com"
-        }
-    ],
-    "require": {
-
-    }
+	"name": "pavelvais/ci_plugin_html",
+	"description": "HTML plugin do codeigniteru",
+	"version": "1.0.0",
+	"type": "project",
+	"license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+	"authors": [
+		{
+			"name": "Pavel Vais",
+			"email": "vaispavel@gmail.com"
+		}
+	],
+	"require": {
+	}
 }
