@@ -6,18 +6,6 @@ class Html
 	private static $ci;
 
 	/**
-	 * Nazev pojmenovani CSRF tokenu v GET a POST situacich 
-	 */
-
-	const CSRF_TOKEN_NAME = "secutoken";
-
-	/**
-	 * Urcuje vygenerovany token
-	 * @var type 
-	 */
-	private static $generated_token;
-
-	/**
 	 * Urcuje, jestli je trida jiz zinicializovana nebo ne
 	 * @var type 
 	 */
